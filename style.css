@@ -1,0 +1,26 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f3cd8b;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
+
+.title {
+    text-align: center;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipes {
+    font-size: 18px;
+}
